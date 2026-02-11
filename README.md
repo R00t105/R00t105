@@ -91,7 +91,7 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,nginx&theme=dark" />
 </p>
 
-
+<br/>
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -105,11 +105,10 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R00t105&theme=radical&hide_border=true" alt="Streak Stats" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 
-<br/>
 
 ### 🏆 Key Achievements
 
@@ -176,6 +175,7 @@ Backend Engineer, Java Developer, Spring Boot, Microservices,
 Distributed Systems, Cloud Native, AWS, Docker, Kubernetes, 
 React, Full Stack Developer, Software Architect, DevOps
 -->
+
 
 
 
