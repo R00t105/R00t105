@@ -7,13 +7,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Full+Stack+Developer+🚀;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
+<br/>
 
 <!-- Profile Views & Followers -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R00t105&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/R00t105?label=Followers&style=social" alt="Followers" />
 </div>
-
 <br/>
 
 ## 🧑‍💻 About Me
@@ -29,7 +29,7 @@ public class Developer {
         System.out.println("Thanks for visiting my profile! 🚀");
     }
 }
-
+```
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
