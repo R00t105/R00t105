@@ -56,7 +56,7 @@ public class BackendEngineer {
     }
 }
 ```
-
+<br/>
 I'm a passionate **Backend Engineer** specializing in designing and implementing **high-performance distributed systems**. With deep expertise in the **Java & Spring ecosystem**, I architect **microservices** that are:
 
 - ⚡ **Resilient** - Fault-tolerant by design
@@ -143,10 +143,6 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
   </a>
 </div>
 
-<br/>
-
-### 💼 Data
-
 <div align="center">
 
 <a href="https://github.com/R00t105/Backend-Engineer-Portfolio">
@@ -181,4 +177,5 @@ Backend Engineer, Java Developer, Spring Boot, Microservices,
 Distributed Systems, Cloud Native, AWS, Docker, Kubernetes, 
 React, Full Stack Developer, Software Architect, DevOps
 -->
+
 
