@@ -35,11 +35,11 @@
   </a>
   &nbsp;
   <a href="https://r00t105.github.io/Backend-Engineer-Portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00C853" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://github.com/R00t105">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>
@@ -68,7 +68,7 @@ public class BackendEngineer {
         "Distributed Systems",
         "Cloud-Native Solutions"
     };
-    
+
     public String getMission() {
         return "Building resilient, scalable systems " +
                "that power the digital world";
@@ -79,39 +79,43 @@ public class BackendEngineer {
 I'm a passionate **Backend Engineer** specializing in designing and implementing **high-performance distributed systems**. With deep expertise in the **Java & Spring ecosystem**, I architect **microservices** that are:
 
 - ⚡ **Resilient** - Fault-tolerant by design
-- 📈 **Scalable** - Ready for massive growth  
+- 📈 **Scalable** - Ready for massive growth
 - 🔒 **Secure** - Enterprise-grade protection
 - 🎯 **Optimized** - Peak performance always
 
-> *"Clean code, solid architecture, and continuous learning 
-> are the pillars of exceptional software engineering."*
+> _"Clean code, solid architecture, and continuous learning
+> are the pillars of exceptional software engineering."_
 
 <br/>
 
 ### 🛠️ Tech Arsenal
 
 #### Backend Core
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark" />
 </p>
 
 #### DevOps & Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,git,githubactions&theme=dark" />
 </p>
 
 #### Frontend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,html,css,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 #### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,nginx&theme=dark" />
 </p>
 
     </td>
-    
+
     <!-- Right Column: Stats & Analytics -->
     <td width="45%" valign="top">
 
@@ -146,16 +150,17 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 💻 Repositories | 50+ |
-| ⭐ Total Stars | Growing |
-| 🔥 Commits | 1000+ |
-| 🤝 Contributions | Active |
+| Metric           | Value   |
+| ---------------- | ------- |
+| 💻 Repositories  | 50+     |
+| ⭐ Total Stars   | Growing |
+| 🔥 Commits       | 1000+   |
+| 🤝 Contributions | Active  |
 
 </div>
 
     </td>
+
   </tr>
 </table>
 
@@ -210,7 +215,7 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
 
 <!-- Hidden SEO Keywords -->
 <!--
-Backend Engineer, Java Developer, Spring Boot, Microservices, 
-Distributed Systems, Cloud Native, AWS, Docker, Kubernetes, 
+Backend Engineer, Java Developer, Spring Boot, Microservices,
+Distributed Systems, Cloud Native, AWS, Docker, Kubernetes,
 React, Full Stack Developer, Software Architect, DevOps
 -->
