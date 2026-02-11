@@ -32,22 +32,102 @@ public class Developer {
 }
 
 
-🛠️ Tech Stack
-Backend
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
-https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
-https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white
-Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-Database & Tools
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+### القسم 5: Tech Stack - Backend
+
+```markdown
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=R00t105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=R00t105&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R00t105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R00t105&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<!-- Activity Graph -->
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R00t105&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/R00t105/online-learning-platform">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R00t105&repo=online-learning-platform&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/R00t105/task-management">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R00t105&repo=task-management&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<!-- Skills Progress -->
+## 💪 Skills Progress
+
+```text
+Java          ████████████████████░░░   85%
+Spring Boot   ███████████████████░░░░   80%
+Microservices ████████████████░░░░░░░   70%
+React         ██████████████░░░░░░░░░░░   60%
+SQL           ██████████████████░░░░░░░   75%
+Docker        ████████████░░░░░░░░░░░░░   50%
+
+
+---
+
+### القسم 13: Connect
+
+```markdown
+<!-- Connect -->
+## 📫 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/momen-abdulrahman)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almonshake75@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://R00t105.github.io)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/R00t105)
+  
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R00t105/R00t105/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R00t105/R00t105/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R00t105/R00t105/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
