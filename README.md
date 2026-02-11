@@ -31,10 +31,6 @@ public class Developer {
     }
 }
 
-
-### القسم 5: Tech Stack - Backend
-
-```markdown
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
