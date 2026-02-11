@@ -98,7 +98,7 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
 
 
 
-<br/><br/>
+<br/>
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
@@ -177,5 +177,6 @@ Backend Engineer, Java Developer, Spring Boot, Microservices,
 Distributed Systems, Cloud Native, AWS, Docker, Kubernetes, 
 React, Full Stack Developer, Software Architect, DevOps
 -->
+
 
 
