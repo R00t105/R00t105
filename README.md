@@ -1,51 +1,32 @@
-<h2 align="left">Hi 👋! My name is Momen and I'm a Backend Developer using Java & Spring Boot</h2>
-
-###
-
+<!-- Header Animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r00t105&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t105&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgwNXk1c2ZyY2ZiYm1hbWc3Z2V2aHZ3NjdrZ2xwZGk2ajYyMTY2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-
-###
-
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Full+Stack+Developer+🚀;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
-###
-
+<!-- Profile Views & Followers -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/momen-abdulrahman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:almonshake75@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=R00t105&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/R00t105?label=Followers&style=social" alt="Followers" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<!-- About Section -->
+## 🧑‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/r00t105/r00t105/output/snake.svg" alt="Snake animation" />
-
-###
+```java
+public class Developer {
+    private String name = "Mo'men";
+    private String role = "Full Stack Developer";
+    private String[] languages = {"Java", "JavaScript", "SQL"};
+    private String[] frameworks = {"Spring Boot", "React", "Node.js"};
+    
+    public void sayHi() {
+        System.out.println("Thanks for visiting my profile! 🚀");
+    }
+}
