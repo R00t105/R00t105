@@ -23,23 +23,23 @@
 
 <br/>
 
-<!-- Social Links with Hover Effects -->
+<!-- Social Links with Circular Icons -->
 <div align="center">
   
   <a href="https://linkedin.com/in/momen-abdulrahman">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28" />
   </a>
   &nbsp;
   <a href="mailto:almonshake75@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" height="28" />
   </a>
   &nbsp;
   <a href="https://r00t105.github.io/Backend-Engineer-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00C853?style=flat&logo=google-chrome&logoColor=white&labelColor=00C853" height="28" />
   </a>
   &nbsp;
   <a href="https://github.com/R00t105">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717" height="28" />
   </a>
 
 </div>
