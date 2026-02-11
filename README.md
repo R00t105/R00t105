@@ -3,25 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Mo'men%20Abdulrahman&fontColor=fff&fontSize=50&desc=Backend%20Engineer%20|%20System%20Architect&descSize=20&descAlignY=65&animation=twinkling" width="100%" />
 </div>
 
-<br/>
-
-<!-- Animated Typing Introduction -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🚀+Building+Scalable+Distributed+Systems;☕+Java+%7C+Spring+Ecosystem+Specialist;⚡+Microservices+%7C+Cloud-Native+Architecture;🎨+Full+Stack+with+React+%26+TypeScript" alt="Typing Animation" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Trophy Showcase -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=R00t105&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
-  </a>
-</div>
-
-<br/>
 
 <!-- Social Links with Hover Effects -->
 <div align="center">
@@ -110,19 +91,12 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,nginx&theme=dark" />
 </p>
 
-    </td>
-    
-    <!-- Right Column: Stats & Analytics -->
-    <td width="45%" valign="top">
 
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=R00t105&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-</a>
+
 
 <br/><br/>
 
@@ -132,11 +106,6 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
 </a>
 
 <br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R00t105&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
-</a>
 
 </div>
 
@@ -176,16 +145,14 @@ I'm a passionate **Backend Engineer** specializing in designing and implementing
 
 <br/>
 
-### 💼 Featured Projects
+### 💼 Data
 
 <div align="center">
 
 <a href="https://github.com/R00t105/Backend-Engineer-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R00t105&repo=Backend-Engineer-Portfolio&theme=radical&hide_border=true" alt="Portfolio Project" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/R00t105">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R00t105&repo=Backend-Engineer-Portfolio&theme=radical&hide_border=true" alt="More Projects" />
 </a>
 
 </div>
@@ -214,3 +181,4 @@ Backend Engineer, Java Developer, Spring Boot, Microservices,
 Distributed Systems, Cloud Native, AWS, Docker, Kubernetes, 
 React, Full Stack Developer, Software Architect, DevOps
 -->
+
