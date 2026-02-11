@@ -16,7 +16,6 @@
 
 <br/>
 
-<!-- About Section -->
 ## 🧑‍💻 About Me
 
 ```java
